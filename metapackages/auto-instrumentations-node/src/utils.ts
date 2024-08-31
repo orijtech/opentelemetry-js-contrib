@@ -53,6 +53,7 @@ import { RedisInstrumentation as RedisInstrumentationV4 } from '@opentelemetry/i
 import { RestifyInstrumentation } from '@opentelemetry/instrumentation-restify';
 import { RouterInstrumentation } from '@opentelemetry/instrumentation-router';
 import { SocketIoInstrumentation } from '@opentelemetry/instrumentation-socket.io';
+import { SpannerInstrumentation } from '@opentelemetry/instrumentation-spanner';
 import { TediousInstrumentation } from '@opentelemetry/instrumentation-tedious';
 import { UndiciInstrumentation } from '@opentelemetry/instrumentation-undici';
 import { WinstonInstrumentation } from '@opentelemetry/instrumentation-winston';
